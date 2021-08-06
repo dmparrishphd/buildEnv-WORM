@@ -1,0 +1,11 @@
+Package: buildEnv
+Title: Create Environments
+Version: 0.0-0
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+License: AGPL-3
+Encoding: UTF-8
+Description: Functions for creating new environments are
+    included.
+        This repository develops only by the addition of new
+    files.
